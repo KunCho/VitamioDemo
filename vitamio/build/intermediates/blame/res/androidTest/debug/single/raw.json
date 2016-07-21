@@ -1,10 +1,14 @@
 [
     {
-        "merged": "/AndroidStudioCode/VitamioDemo/vitamio/build/intermediates/res/merged/androidTest/debug/raw/libarm.so",
-        "source": "/AndroidStudioCode/VitamioDemo/vitamio/build/intermediates/bundles/debug/res/raw/libarm.so"
+        "merged": "F:\\AndroidStudioCode\\VitamioDemo\\F:\\AndroidStudiocode\\VitamioDemo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "F:\\AndroidStudioCode\\VitamioDemo\\F:\\AndroidStudiocode\\VitamioDemo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
     },
     {
-        "merged": "/AndroidStudioCode/VitamioDemo/F:\\AndroidStudiocode\\VitamioDemo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
-        "source": "/AndroidStudioCode/VitamioDemo/F:\\AndroidStudiocode\\VitamioDemo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+        "merged": "F:\\AS_Projects\\VitamioDemo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "F:\\AS_Projects\\VitamioDemo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
+    },
+    {
+        "merged": "F:\\AndroidStudioCode\\VitamioDemo\\vitamio\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libarm.so",
+        "source": "F:\\AndroidStudioCode\\VitamioDemo\\vitamio\\build\\intermediates\\bundles\\debug\\res\\raw\\libarm.so"
     }
 ]
